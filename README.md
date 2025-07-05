@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I’m Amir Asadyan, Dedicated computer engineering student with a passion for [software development, IOT, AI, Game development, CyberSecurity].<br>Strong technical skills in [ Python, C++, React, JavaScript, Flutter].<br>Eager to apply knowledge to real-world problems and contribute to innovative projects.
+Hi I’m Amir Asadyan, Dedicated computer engineering student with a passion for [software development, IOT, AI, Game development, CyberSecurity].<br>Strong technical skills in [ Python, C++, html,css, JavaScript].<br>Eager to apply knowledge to real-world problems and contribute to innovative projects.
 
 
 ## 🌐 Socials:
